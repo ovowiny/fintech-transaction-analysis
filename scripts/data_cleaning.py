@@ -10,7 +10,7 @@ from google.colab import files
 """Loading the Dataset"""
 
 # Load dataset containing transaction records from my drive
-df = pd.read_csv("/content/drive/MyDrive/Creditswitch/Assessment Dataset.csv")
+df = pd.read_csv("/content/drive/MyDrive/Dataset.csv")
 
 """## Data Inspection and Cleaning
 
