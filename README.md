@@ -1,5 +1,9 @@
 # fintech-transaction-analysis
 
+## ⚠️ Disclaimer
+
+This project is based on a simulated or anonymized dataset for demonstration purposes only. No sensitive or personally identifiable information is included.
+
 ### Overview
 
 This project presents an end-to-end analysis of a large-scale fintech transactional dataset, focusing on uncovering business performance, operational efficiency, and hidden risks.
